@@ -1,2 +1,3 @@
 Firewall edificioRemoto: https://mega.nz/folder/MagBlbRb#iVzpnFCns88BQkES-b7geQ
-OrdenadorParaCOnfigpfSense: https://mega.nz/folder/4bYnWSaa#spNDDQIOsWHypUKGHrS-BQ
+OrdenadorParaConfigpfSense: https://mega.nz/folder/4bYnWSaa#spNDDQIOsWHypUKGHrS-BQ
+--- Aniadir lo necesario ---

@@ -1,0 +1,3 @@
+Firewall edificioEmpresa: 
+OrdenadorParaConfigpfSense: 
+--- Aniadir lo necesario ---
