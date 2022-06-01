@@ -1,4 +1,4 @@
-Firewall edificioRemoto: https://mega.nz/folder/MagBlbRb#iVzpnFCns88BQkES-b7geQ
-OrdenadorParaConfigpfSense: https://mega.nz/folder/4bYnWSaa#spNDDQIOsWHypUKGHrS-BQ
-Dispositivo móvil:
+Firewall edificioRemoto: https://mega.nz/folder/AC4RGbhI#Krr13p51oWD5GSW08M0QUw
+OrdenadorParaConfigpfSense: https://mega.nz/folder/sfYXWRLD#hl-ckGntWNBKli2_3Cwpvg
+Dispositivo móvil: --- al final no ---
 --- Aniadir lo necesario ---
