@@ -1,4 +1,10 @@
 Firewall edificioEmpresa: https://mega.nz/folder/wKA0RKjJ#rikoQKlZ8fWnkR5wBjmCVQ
 OrdenadorParaConfigpfSense: https://mega.nz/file/lK12jaDL#1Vko94lE2oijbEachekN3F6IviQak_lWx7YGGKCASao
-Servidor: https://mega.nz/file/vchX0J6B#c6RVE466SKU22y-YCOX_XLsNwVSFDTLKyYM9BfH1TXY
+Servidor:
+ - Partes 1 y 7: https://mega.nz/folder/qwtBxZgC#77mBRJWR0jSVW6a7F4iLtg
+ - Parte 2: https://mega.nz/file/oL9HwZjL#Dl2z9GC_krh4P_QxHQMkwA5ItFawBAF7nhDfdAEFJmo
+ - Parte 3: https://mega.nz/file/RbcxHL7T#ZXnRjFTM0Y1IqD-FHQryfiKBScXxhBWJwsMPHumSo70
+ - Parte 4: https://mega.nz/file/dGtgnR6S#GTc4Jiajmc3-f8Rt5uLHtQPBQCAJwcM1vWe7wo9Oguo
+ - Parte 5: https://mega.nz/file/ELkB1Sqa#pWYCiZk-Tr-AT3aKCUa3h60Flg891baijISL-DdHKhE
+ - Parte 6: https://mega.nz/file/9Pl10STA#czIP75qLHiyGKcBH3tU2oVpkXZ0AoPopffd08T2mCUY
 --- Aniadir lo necesario ---
