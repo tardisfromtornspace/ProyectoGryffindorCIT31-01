@@ -1,4 +1,4 @@
-Firewall edificioEmpresa: https://mega.nz/folder/EOwGxKYC#Kp8UfRRDnXEFSek46kJVNw
+Firewall edificioEmpresa: https://mega.nz/folder/EPQlHT7S#euMz_1hXikz-Y8jLu88V0g
 OrdenadorParaConfigpfSense: https://mega.nz/file/lK12jaDL#1Vko94lE2oijbEachekN3F6IviQak_lWx7YGGKCASao
 Servidor: https://mega.nz/file/vchX0J6B#c6RVE466SKU22y-YCOX_XLsNwVSFDTLKyYM9BfH1TXY
 --- Aniadir lo necesario ---
