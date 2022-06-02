@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+
+
+<html>
+<style>
+
+button {
+        background-color: #000;
+        border: .5px solid crimson;
+        border-radius: 10px;
+        color: #fff;
+        padding: 8px;
+        box-shadow: 0 0 30px 0 crimson,
+                    0 0 30px 0 crimson,
+                    0 0 10px 0 crimson inset;
+
+
+button {
+        background-color: #000;
+        border: .5px solid crimson;
+        border-radius: 10px;
+        color: #fff;
+        padding: 8px;
+
+      }
+
+
+</style>
+
+
+
+<body style =  "background-color: black;text-align:center">
+      
+<p id = "carb" style="font-size:150px;color:white;font-family:verdana">O_O</p>
+
+<button onclick="incs()" class = "button">COUNTER++</button>
+
+<script type="text/javascript">
+// we need to import our server side variable into javascript to let it increment live
+
+
+function incs()
+{
+      let x= parseInt(document.getElementById("carb").innerHTML);
+      fetch("https://192.168.1.136/funcion.php", {
+        method: "POST",
+	mode: 'no-cors',
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        },
+        body: `x=${x}`,
+      })
+      .then((response) => response.text())
+      .then((res) => (document.getElementById("carb").innerHTML = res));
+}
+
+
+
+</script>
+</body>
+</html>

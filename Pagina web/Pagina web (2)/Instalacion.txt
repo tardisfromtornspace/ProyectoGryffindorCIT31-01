@@ -1,0 +1,13 @@
+0- Instalar xampp
+
+1- Añadir al httpd.conf de apahe el contenido de redireccion.txt, cambiando la ip por la pertinente
+
+(contiene el certificado y eo que no sirve pero para que sea https)
+
+2- Ir a c:/xampp/htdocs y colocar index.html y funcion.php, reemplazar si hace falta
+
+3- Editar index.html cambiando la direccion ip necesaria en el script del final
+
+4- Ir a c:/xampp/mysql , y ejecutar "mysql.exe -u root -p". Una vez hecho eso, hacer source [direccion de sqlscript.txt]
+
+5- Encender en el xampp apache y mysql 

@@ -1,0 +1,21 @@
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Y#7HGMk>cN<2kKG';
+flush privileges;
+
+CREATE USER 'cliente'@'localhost' IDENTIFIED BY '<2Uy4}>sed:`2(@Y';
+
+
+CREATE SCHEMA IF NOT EXISTS Counter_database
+    DEFAULT CHARACTER SET utf8
+    COLLATE utf8_spanish_ci;
+
+USE Counter_database;
+
+CREATE TABLE numero(
+	id INT NOT NULL,
+	valor INT NOT NULL,
+	PRIMARY KEY(id));
+
+INSERT INTO numero(id,valor) VALUES (0,0);
+
+GRANT ALL PRIVILEGES ON Counter_database.numero TO 'cliente'@'localhost';
+FLUSH PRIVILEGES;
