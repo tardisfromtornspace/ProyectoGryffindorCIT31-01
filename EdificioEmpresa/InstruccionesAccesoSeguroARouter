@@ -1,0 +1,7 @@
+Tengo una solucion para la conexion segura al router (reducir vulnerabilidades): 
+1º System -> Cert Manager. 
+2º Importad el nuevo Certificado WebConfigurator que esta en esta carpeta, por si acaso os doy la .key (en la vida real esto de dar la parte privada no se debería hacer, pero en neustro caso para agilizar el proceso ya que la descarga de una máquina virtual entera para esto es muy pesada, pues se admite)
+3º Id a configuracion del navegador de internet e importad la autoridad de certificacion.
+4º ID a System -> Advanced y cambiad el SSL/TLS Certificate que está por defecto con el nuestro, y dadle a guardar.
+
+5º (OPCIONAL) Recomiendo que se haga algo parecido para el router remoto pasándolo a HTTPS, aunque no creo que sea necesario ya que el firewall ya está diseñado para bloquear accesos por la red WAN y se supone que es una red doméstica.
