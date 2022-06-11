@@ -1,2 +1,2 @@
-Firewall edificioRemoto: https://mega.nz/file/Bf9lGRyD#bT-GHAbfL6NbLTFqmX9kqsytUhm3cK6mlo0duy33Kw8
-OrdenadorParaConfigpfSense: https://mega.nz/file/Bf9lGRyD#bT-GHAbfL6NbLTFqmX9kqsytUhm3cK6mlo0duy33Kw8
+Firewall edificioRemoto: https://mega.nz/file/UCIxwJCR#B-8pLp2Oarf64mosl7AI2etcS19EVLIq6iXHrhRtO7M
+OrdenadorParaConfigpfSense/Cliente: https://mega.nz/file/Bf9lGRyD#bT-GHAbfL6NbLTFqmX9kqsytUhm3cK6mlo0duy33Kw8
