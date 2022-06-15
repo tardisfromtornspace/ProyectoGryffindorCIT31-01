@@ -1,2 +1,3 @@
-Firewall edificioRemoto: https://mega.nz/file/0flSlJQZ#ARdCGBEOP88SpRZEyEFYbAfHWkBcLuPJrJKnlrZEPwk
+Firewall edificio remoto: https://mega.nz/file/0flSlJQZ#ARdCGBEOP88SpRZEyEFYbAfHWkBcLuPJrJKnlrZEPwk
+ - Versión parcheada del Firewall del edificio remoto: https://mega.nz/file/cDsRyCxK#7HG7lu2DSP3Ek0dyuCneA0GMNv10TN-Uo-TmMKFkqOc
 OrdenadorParaConfigpfSense/Cliente: https://mega.nz/file/Bf9lGRyD#bT-GHAbfL6NbLTFqmX9kqsytUhm3cK6mlo0duy33Kw8
